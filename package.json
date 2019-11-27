@@ -1,0 +1,21 @@
+{
+  "name": "karaoke_night_planner_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "backpack",
+    "build": "backpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backpack-core": "^0.8.4",
+    "date-fns": "^2.8.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "long": "^4.0.0",
+    "lowdb": "^1.0.0"
+  }
+}
